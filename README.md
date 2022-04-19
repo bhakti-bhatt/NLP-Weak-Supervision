@@ -14,7 +14,7 @@ Understanding & implementing *skweak: Weak Supervision by Easy for NLP*
           * products.json
           * reuters_small.tar.gz
           * wikidata_small_tokenised.json.gz
-     * Also download reuters_small.spacy from the github folder /data/ner/
+     * Also download reuters_small.spacy from the github folder /data/NER/
 
 **Problem Description:**
 
