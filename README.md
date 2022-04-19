@@ -1,3 +1,7 @@
+## NLP - Weak Supervision
+
+Understanding & implementing *skweak: Weak Supervision by Easy for NLP*
+
 **Problem Description:**
 
 In NLP, accurately labelled data is scarce when dealing with specialized domains and internal business initiatives. NLP projects undertaken by businesses often deal with the lack of labelled data – especially when the business defines domain specific (e.g. internal) labels and cannot make use of pre-existing resources. In many cases, there is a need to rely on massive sets of hand-labelled domain-specific training data or large pre-trained language models.
