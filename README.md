@@ -1,7 +1,9 @@
 ## NLP - Weak Supervision
 
-Understanding & implementing *skweak: Weak Supervision by Easy for NLP*
+Understanding & implementing *skweak: Weak Supervision by Easy for NLP* 
+https://arxiv.org/pdf/2104.09683v1.pdf
 
+****
 **Data Requirements**
 * To run **Final_Project_Weak_Supervision.ipynb** File, 
      * Download the data files named reuters_small.tar.gz & crunchbase_companies.json.gz from https://github.com/NorskRegnesentral/skweak/tree/main/data
@@ -15,6 +17,7 @@ Understanding & implementing *skweak: Weak Supervision by Easy for NLP*
           * reuters_small.tar.gz
           * wikidata_small_tokenised.json.gz
      * Also download reuters_small.spacy from the github folder /data/NER/
+****
 
 **Problem Description:**
 
