@@ -16,7 +16,7 @@ https://arxiv.org/pdf/2104.09683v1.pdf
           * products.json
           * reuters_small.tar.gz
           * wikidata_small_tokenised.json.gz
-     * Also download reuters_small.spacy from the github folder /data/NER/
+     * Also download reuters_small.spacy from https://drive.google.com/drive/folders/1RTSxZZXfHZH1Cmx_WST8YWGbmyzmyBWw?usp=sharing
 ****
 
 **Problem Description:**
