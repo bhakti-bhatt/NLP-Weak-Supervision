@@ -23,11 +23,11 @@ https://arxiv.org/pdf/2104.09683v1.pdf
 
 **Problem Description:**
 
-In NLP, accurately labelled data is scarce when dealing with specialized domains and internal business initiatives. NLP projects undertaken by businesses often deal with the lack of labelled data – especially when the business defines domain specific (e.g. internal) labels and cannot make use of pre-existing resources. In many cases, there is a need to rely on massive sets of hand-labelled domain-specific training data or large pre-trained language models.
+In NLP, accurately labeled data is scarce when dealing with specialized domains and internal business initiatives. NLP projects undertaken by businesses often deal with the lack of labeled data – especially when the business defines domain specific (e.g. internal) labels and cannot make use of pre-existing resources. In many cases, there is a need to rely on massive sets of hand-labeled domain-specific training data or large pre-trained language models.
 
 **Context of the Problem:**
 
-In the modern world, there is infinite availability of text document. Unfortunately, there is huge scarcity of meaningful labelled data. This issue magnifies in resource-poor languages and/or uncommon textual domains, also extended to projects without pre-existing datasets.
+In the modern world, there is infinite availability of text document. Unfortunately, there is huge scarcity of meaningful labeled data. This issue magnifies in resource-poor languages and/or uncommon textual domains, also extended to projects without pre-existing datasets.This problem is important as Machine Learning Models require labeled data for supervised learning, and the scarcity of acurately labeled data makes it difficult to train these models.
 
 **Limitation About other Approaches:**
 
@@ -47,4 +47,4 @@ There are many ways to get more labeled training data however each have their ow
 
 **Solution:**
 
-The Skweak framework relies on weak supervision eliminating labelling data by hand. Skweak relies on weak supervision to programmatically label data points through a collection of labelling functions. Another feature of skweak is the ability to create labelling functions that produce underspecified labels.
+The solution to these problems is provided by the weak supervision paradigm. Weak Supervision saves the time that is required to label data by hand. It takes, as input, noisy/conflicting/less accurate data, then aggregates the data to provide a single output of labels without conflicts. This aggeregated data can then be used to train an NLP model for sentiment analysis and named entity recognition. The skweak framework relies on weak supervision to programmatically label data points through a collection of labelling functions which are discussed further in this report.
