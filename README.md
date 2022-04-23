@@ -7,6 +7,7 @@ https://arxiv.org/pdf/2104.09683v1.pdf
 **Data Requirements**
 * To run **Final_Project_Weak_Supervision.ipynb** File, 
      * Download the data files named reuters_small.tar.gz & crunchbase_companies.json.gz from https://github.com/NorskRegnesentral/skweak/tree/main/data
+     * Upload to Google Colab & run the file.
 * In order to run the **NER_step_by_step.ipynb** File,
      * Download the following datafiles from https://github.com/NorskRegnesentral/skweak/tree/main/data: 
           * crunchbase_companies.json.gz
@@ -17,6 +18,7 @@ https://arxiv.org/pdf/2104.09683v1.pdf
           * reuters_small.tar.gz
           * wikidata_small_tokenised.json.gz
      * Also download reuters_small.spacy from https://drive.google.com/drive/folders/1RTSxZZXfHZH1Cmx_WST8YWGbmyzmyBWw?usp=sharing
+     * Upload all files to Google Colab & run the file.
 ****
 
 **Problem Description:**
